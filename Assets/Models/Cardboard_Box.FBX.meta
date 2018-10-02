@@ -10,7 +10,12 @@ ModelImporter:
     3300000: //RootNode
     4300000: Cardboard Box
     6400000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100040, guid: b3e3d21fbd9b305449a7f90bf6c2606c, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
