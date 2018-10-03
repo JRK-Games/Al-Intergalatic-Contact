@@ -8,28 +8,34 @@ ModelImporter:
     100004: Box003
     100006: Plane001
     100008: //RootNode
+    100010: Box004
     400000: Box001
     400002: Box002
     400004: Box003
     400006: Plane001
     400008: //RootNode
+    400010: Box004
     2100000: No Name
     2300000: Box001
     2300002: Box002
     2300004: Box003
     2300006: Plane001
+    2300008: Box004
     3300000: Box001
     3300002: Box002
     3300004: Box003
     3300006: Plane001
+    3300008: Box004
     4300000: Plane001
     4300002: Box001
     4300004: Box002
     4300006: Box003
+    4300008: Box004
     6400000: Box001
     6400002: Box002
     6400004: Box003
     6400006: Plane001
+    6400008: Box004
   externalObjects: {}
   materials:
     importMaterials: 1
