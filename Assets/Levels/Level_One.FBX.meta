@@ -16,6 +16,19 @@ ModelImporter:
     100020: Floor003
     100022: Floor004
     100024: Floor005
+    100026: Wall001
+    100028: Wall002
+    100030: Wall003
+    100032: Wall004
+    100034: Wall005
+    100036: Wall006
+    100038: Floor006
+    100040: Floor007
+    100042: Floor008
+    100044: Floor009
+    100046: Floor010
+    100048: Floor011
+    100050: Wall008
     400000: Box001
     400002: Box002
     400004: Box003
@@ -29,6 +42,19 @@ ModelImporter:
     400020: Floor003
     400022: Floor004
     400024: Floor005
+    400026: Wall001
+    400028: Wall002
+    400030: Wall003
+    400032: Wall004
+    400034: Wall005
+    400036: Wall006
+    400038: Floor006
+    400040: Floor007
+    400042: Floor008
+    400044: Floor009
+    400046: Floor010
+    400048: Floor011
+    400050: Wall008
     2100000: No Name
     2300000: Box001
     2300002: Box002
@@ -42,6 +68,19 @@ ModelImporter:
     2300018: Floor003
     2300020: Floor004
     2300022: Floor005
+    2300024: Wall001
+    2300026: Wall002
+    2300028: Wall003
+    2300030: Wall004
+    2300032: Wall005
+    2300034: Wall006
+    2300036: Floor006
+    2300038: Floor007
+    2300040: Floor008
+    2300042: Floor009
+    2300044: Floor010
+    2300046: Floor011
+    2300048: Wall008
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -54,6 +93,19 @@ ModelImporter:
     3300018: Floor003
     3300020: Floor004
     3300022: Floor005
+    3300024: Wall001
+    3300026: Wall002
+    3300028: Wall003
+    3300030: Wall004
+    3300032: Wall005
+    3300034: Wall006
+    3300036: Floor006
+    3300038: Floor007
+    3300040: Floor008
+    3300042: Floor009
+    3300044: Floor010
+    3300046: Floor011
+    3300048: Wall008
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -66,6 +118,19 @@ ModelImporter:
     4300018: Floor003
     4300020: Floor004
     4300022: Floor005
+    4300024: Wall001
+    4300026: Wall002
+    4300028: Wall003
+    4300030: Wall004
+    4300032: Wall005
+    4300034: Wall006
+    4300036: Floor006
+    4300038: Floor007
+    4300040: Floor008
+    4300042: Floor009
+    4300044: Floor010
+    4300046: Floor011
+    4300048: Wall008
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -78,6 +143,19 @@ ModelImporter:
     6400018: Floor003
     6400020: Floor004
     6400022: Floor005
+    6400024: Wall001
+    6400026: Wall002
+    6400028: Wall003
+    6400030: Wall004
+    6400032: Wall005
+    6400034: Wall006
+    6400036: Floor006
+    6400038: Floor007
+    6400040: Floor008
+    6400042: Floor009
+    6400044: Floor010
+    6400046: Floor011
+    6400048: Wall008
   externalObjects: {}
   materials:
     importMaterials: 1
