@@ -55,6 +55,8 @@ ModelImporter:
     100098: Wall017
     100100: Wall018
     100102: Wall019
+    100104: Wall020
+    100106: Floor012
     400000: Box001
     400002: Box002
     400004: Box003
@@ -107,6 +109,8 @@ ModelImporter:
     400098: Wall017
     400100: Wall018
     400102: Wall019
+    400104: Wall020
+    400106: Floor012
     2100000: No Name
     2300000: Box001
     2300002: Box002
@@ -159,6 +163,8 @@ ModelImporter:
     2300096: Wall017
     2300098: Wall018
     2300100: Wall019
+    2300102: Wall020
+    2300104: Floor012
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -210,6 +216,8 @@ ModelImporter:
     3300096: Wall017
     3300098: Wall018
     3300100: Wall019
+    3300102: Wall020
+    3300104: Floor012
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -261,6 +269,8 @@ ModelImporter:
     4300096: Wall017
     4300098: Wall018
     4300100: Wall019
+    4300102: Wall020
+    4300104: Floor012
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -312,6 +322,8 @@ ModelImporter:
     6400096: Wall017
     6400098: Wall018
     6400100: Wall019
+    6400102: Wall020
+    6400104: Floor012
   externalObjects: {}
   materials:
     importMaterials: 1
