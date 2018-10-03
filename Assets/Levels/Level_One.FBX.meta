@@ -57,6 +57,8 @@ ModelImporter:
     100102: Wall019
     100104: Wall020
     100106: Floor012
+    100108: Floor013
+    100110: Wall021
     400000: Box001
     400002: Box002
     400004: Box003
@@ -111,7 +113,15 @@ ModelImporter:
     400102: Wall019
     400104: Wall020
     400106: Floor012
+    400108: Floor013
+    400110: Wall021
     2100000: No Name
+    2100002: 'Material #3'
+    2100004: 'Material #2'
+    2100006: 'Material #6'
+    2100008: 03 - Default
+    2100010: 'Material #7'
+    2100012: 01 - Default
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -165,6 +175,8 @@ ModelImporter:
     2300100: Wall019
     2300102: Wall020
     2300104: Floor012
+    2300106: Floor013
+    2300108: Wall021
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -218,6 +230,8 @@ ModelImporter:
     3300100: Wall019
     3300102: Wall020
     3300104: Floor012
+    3300106: Floor013
+    3300108: Wall021
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -271,6 +285,8 @@ ModelImporter:
     4300100: Wall019
     4300102: Wall020
     4300104: Floor012
+    4300106: Floor013
+    4300108: Wall021
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -324,6 +340,8 @@ ModelImporter:
     6400100: Wall019
     6400102: Wall020
     6400104: Floor012
+    6400106: Floor013
+    6400108: Wall021
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -363,7 +381,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
