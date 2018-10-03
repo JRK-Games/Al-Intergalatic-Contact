@@ -29,6 +29,26 @@ ModelImporter:
     100046: Floor010
     100048: Floor011
     100050: Wall008
+    100052: Ceiling00
+    100054: Ceiling006
+    100056: Ceiling007
+    100058: Ceiling008
+    100060: Ceiling009
+    100062: Ceiling01
+    100064: Ceiling010
+    100066: Ceiling011
+    100068: Ceiling012
+    100070: Ceiling013
+    100072: Ceiling02
+    100074: Ceiling03
+    100076: Ceiling04
+    100078: Ceiling05
+    100080: Wall009
+    100082: Wall010
+    100084: Wall011
+    100086: Wall012
+    100088: Wall013
+    100090: Wall014
     400000: Box001
     400002: Box002
     400004: Box003
@@ -55,6 +75,26 @@ ModelImporter:
     400046: Floor010
     400048: Floor011
     400050: Wall008
+    400052: Ceiling00
+    400054: Ceiling006
+    400056: Ceiling007
+    400058: Ceiling008
+    400060: Ceiling009
+    400062: Ceiling01
+    400064: Ceiling010
+    400066: Ceiling011
+    400068: Ceiling012
+    400070: Ceiling013
+    400072: Ceiling02
+    400074: Ceiling03
+    400076: Ceiling04
+    400078: Ceiling05
+    400080: Wall009
+    400082: Wall010
+    400084: Wall011
+    400086: Wall012
+    400088: Wall013
+    400090: Wall014
     2100000: No Name
     2300000: Box001
     2300002: Box002
@@ -81,6 +121,26 @@ ModelImporter:
     2300044: Floor010
     2300046: Floor011
     2300048: Wall008
+    2300050: Ceiling00
+    2300052: Ceiling006
+    2300054: Ceiling007
+    2300056: Ceiling008
+    2300058: Ceiling009
+    2300060: Ceiling01
+    2300062: Ceiling010
+    2300064: Ceiling011
+    2300066: Ceiling012
+    2300068: Ceiling013
+    2300070: Ceiling02
+    2300072: Ceiling03
+    2300074: Ceiling04
+    2300076: Ceiling05
+    2300078: Wall009
+    2300080: Wall010
+    2300082: Wall011
+    2300084: Wall012
+    2300086: Wall013
+    2300088: Wall014
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -106,6 +166,26 @@ ModelImporter:
     3300044: Floor010
     3300046: Floor011
     3300048: Wall008
+    3300050: Ceiling00
+    3300052: Ceiling006
+    3300054: Ceiling007
+    3300056: Ceiling008
+    3300058: Ceiling009
+    3300060: Ceiling01
+    3300062: Ceiling010
+    3300064: Ceiling011
+    3300066: Ceiling012
+    3300068: Ceiling013
+    3300070: Ceiling02
+    3300072: Ceiling03
+    3300074: Ceiling04
+    3300076: Ceiling05
+    3300078: Wall009
+    3300080: Wall010
+    3300082: Wall011
+    3300084: Wall012
+    3300086: Wall013
+    3300088: Wall014
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -131,6 +211,26 @@ ModelImporter:
     4300044: Floor010
     4300046: Floor011
     4300048: Wall008
+    4300050: Ceiling02
+    4300052: Ceiling01
+    4300054: Ceiling00
+    4300056: Ceiling03
+    4300058: Ceiling04
+    4300060: Ceiling05
+    4300062: Ceiling006
+    4300064: Ceiling007
+    4300066: Wall009
+    4300068: Wall010
+    4300070: Wall011
+    4300072: Wall012
+    4300074: Ceiling008
+    4300076: Ceiling009
+    4300078: Wall013
+    4300080: Wall014
+    4300082: Ceiling010
+    4300084: Ceiling011
+    4300086: Ceiling012
+    4300088: Ceiling013
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -156,6 +256,26 @@ ModelImporter:
     6400044: Floor010
     6400046: Floor011
     6400048: Wall008
+    6400050: Ceiling00
+    6400052: Ceiling006
+    6400054: Ceiling007
+    6400056: Ceiling008
+    6400058: Ceiling009
+    6400060: Ceiling01
+    6400062: Ceiling010
+    6400064: Ceiling011
+    6400066: Ceiling012
+    6400068: Ceiling013
+    6400070: Ceiling02
+    6400072: Ceiling03
+    6400074: Ceiling04
+    6400076: Ceiling05
+    6400078: Wall009
+    6400080: Wall010
+    6400082: Wall011
+    6400084: Wall012
+    6400086: Wall013
+    6400088: Wall014
   externalObjects: {}
   materials:
     importMaterials: 1
