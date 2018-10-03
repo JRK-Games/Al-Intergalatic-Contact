@@ -49,6 +49,12 @@ ModelImporter:
     100086: Wall012
     100088: Wall013
     100090: Wall014
+    100092: Doorway Template
+    100094: Wall015
+    100096: Wall016
+    100098: Wall017
+    100100: Wall018
+    100102: Wall019
     400000: Box001
     400002: Box002
     400004: Box003
@@ -95,6 +101,12 @@ ModelImporter:
     400086: Wall012
     400088: Wall013
     400090: Wall014
+    400092: Doorway Template
+    400094: Wall015
+    400096: Wall016
+    400098: Wall017
+    400100: Wall018
+    400102: Wall019
     2100000: No Name
     2300000: Box001
     2300002: Box002
@@ -141,6 +153,12 @@ ModelImporter:
     2300084: Wall012
     2300086: Wall013
     2300088: Wall014
+    2300090: Doorway Template
+    2300092: Wall015
+    2300094: Wall016
+    2300096: Wall017
+    2300098: Wall018
+    2300100: Wall019
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -186,6 +204,12 @@ ModelImporter:
     3300084: Wall012
     3300086: Wall013
     3300088: Wall014
+    3300090: Doorway Template
+    3300092: Wall015
+    3300094: Wall016
+    3300096: Wall017
+    3300098: Wall018
+    3300100: Wall019
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -231,6 +255,12 @@ ModelImporter:
     4300084: Ceiling011
     4300086: Ceiling012
     4300088: Ceiling013
+    4300090: Doorway Template
+    4300092: Wall015
+    4300094: Wall016
+    4300096: Wall017
+    4300098: Wall018
+    4300100: Wall019
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -276,6 +306,12 @@ ModelImporter:
     6400084: Wall012
     6400086: Wall013
     6400088: Wall014
+    6400090: Doorway Template
+    6400092: Wall015
+    6400094: Wall016
+    6400096: Wall017
+    6400098: Wall018
+    6400100: Wall019
   externalObjects: {}
   materials:
     importMaterials: 1
