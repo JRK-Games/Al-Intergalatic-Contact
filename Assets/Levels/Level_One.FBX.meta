@@ -59,6 +59,11 @@ ModelImporter:
     100106: Floor012
     100108: Floor013
     100110: Wall021
+    100112: Floor014
+    100114: Floor015
+    100116: Floor016
+    100118: Floor017
+    100120: Floor018
     400000: Box001
     400002: Box002
     400004: Box003
@@ -115,6 +120,11 @@ ModelImporter:
     400106: Floor012
     400108: Floor013
     400110: Wall021
+    400112: Floor014
+    400114: Floor015
+    400116: Floor016
+    400118: Floor017
+    400120: Floor018
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -177,6 +187,11 @@ ModelImporter:
     2300104: Floor012
     2300106: Floor013
     2300108: Wall021
+    2300110: Floor014
+    2300112: Floor015
+    2300114: Floor016
+    2300116: Floor017
+    2300118: Floor018
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -232,6 +247,11 @@ ModelImporter:
     3300104: Floor012
     3300106: Floor013
     3300108: Wall021
+    3300110: Floor014
+    3300112: Floor015
+    3300114: Floor016
+    3300116: Floor017
+    3300118: Floor018
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -287,6 +307,11 @@ ModelImporter:
     4300104: Floor012
     4300106: Floor013
     4300108: Wall021
+    4300110: Floor014
+    4300112: Floor015
+    4300114: Floor016
+    4300116: Floor017
+    4300118: Floor018
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -342,6 +367,11 @@ ModelImporter:
     6400104: Floor012
     6400106: Floor013
     6400108: Wall021
+    6400110: Floor014
+    6400112: Floor015
+    6400114: Floor016
+    6400116: Floor017
+    6400118: Floor018
   externalObjects: {}
   materials:
     importMaterials: 1
