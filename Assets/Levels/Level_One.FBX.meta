@@ -156,6 +156,13 @@ ModelImporter:
     2100012: 01 - Default
     2100014: 'Material #120'
     2100016: TileFloor
+    2100018: 'Material #133'
+    2100020: 'Material #138'
+    2100022: 'Material #161'
+    2100024: 'Material #185'
+    2100026: 'Material #197'
+    2100028: 'Material #208'
+    2100030: 'Material #219'
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -444,8 +451,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
+      name: HexagonTile_DIFF
+    second: {fileID: 2800000, guid: c0b9f6d31beeb254e9b912ad49db0f5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h_wall
+    second: {fileID: 2800000, guid: 041f6faaeef7cb84c85ece9ff84d82c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
       name: white_tile
-    second: {fileID: 2800000, guid: a27ed06f7ea1c0b49bc104b38cbd216e, type: 3}
+    second: {fileID: 2800000, guid: bcccbc7b462cce34daf79c192427dd50, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
