@@ -75,6 +75,7 @@ ModelImporter:
     100138: Wall022
     100140: Floor019
     100142: MedLab_1_F
+    100144: Wall023
     400000: Box001
     400002: Box002
     400004: Box003
@@ -147,6 +148,7 @@ ModelImporter:
     400138: Wall022
     400140: Floor019
     400142: MedLab_1_F
+    400144: Wall023
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -235,6 +237,7 @@ ModelImporter:
     2300136: Wall022
     2300138: Floor019
     2300140: MedLab_1_F
+    2300142: Wall023
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -306,6 +309,7 @@ ModelImporter:
     3300136: Wall022
     3300138: Floor019
     3300140: MedLab_1_F
+    3300142: Wall023
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -377,6 +381,7 @@ ModelImporter:
     4300136: Wall022
     4300138: Floor019
     4300140: MedLab_1_F
+    4300142: Wall023
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -448,6 +453,7 @@ ModelImporter:
     6400136: Wall022
     6400138: Floor019
     6400140: MedLab_1_F
+    6400142: Wall023
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
