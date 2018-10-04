@@ -74,6 +74,7 @@ ModelImporter:
     100136: CeilingTemplate
     100138: Wall022
     100140: Floor019
+    100142: MedLab_1_F
     400000: Box001
     400002: Box002
     400004: Box003
@@ -145,6 +146,7 @@ ModelImporter:
     400136: CeilingTemplate
     400138: Wall022
     400140: Floor019
+    400142: MedLab_1_F
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -152,6 +154,8 @@ ModelImporter:
     2100008: 03 - Default
     2100010: 'Material #7'
     2100012: 01 - Default
+    2100014: 'Material #120'
+    2100016: TileFloor
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -222,6 +226,7 @@ ModelImporter:
     2300134: CeilingTemplate
     2300136: Wall022
     2300138: Floor019
+    2300140: MedLab_1_F
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -292,6 +297,7 @@ ModelImporter:
     3300134: CeilingTemplate
     3300136: Wall022
     3300138: Floor019
+    3300140: MedLab_1_F
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -362,6 +368,7 @@ ModelImporter:
     4300134: CeilingTemplate
     4300136: Wall022
     4300138: Floor019
+    4300140: MedLab_1_F
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -432,7 +439,13 @@ ModelImporter:
     6400134: CeilingTemplate
     6400136: Wall022
     6400138: Floor019
-  externalObjects: {}
+    6400140: MedLab_1_F
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_tile
+    second: {fileID: 2800000, guid: a27ed06f7ea1c0b49bc104b38cbd216e, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
