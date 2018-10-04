@@ -64,6 +64,16 @@ ModelImporter:
     100116: Floor016
     100118: Floor017
     100120: Floor018
+    100122: Wall Template
+    100124: Med_Hall_C
+    100126: MedLab_1_C
+    100128: MedLab_1_WW
+    100130: MedLab_2_C
+    100132: MedLab_3_C
+    100134: Outter_SW
+    100136: CeilingTemplate
+    100138: Wall022
+    100140: Floor019
     400000: Box001
     400002: Box002
     400004: Box003
@@ -125,6 +135,16 @@ ModelImporter:
     400116: Floor016
     400118: Floor017
     400120: Floor018
+    400122: Wall Template
+    400124: Med_Hall_C
+    400126: MedLab_1_C
+    400128: MedLab_1_WW
+    400130: MedLab_2_C
+    400132: MedLab_3_C
+    400134: Outter_SW
+    400136: CeilingTemplate
+    400138: Wall022
+    400140: Floor019
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -192,6 +212,16 @@ ModelImporter:
     2300114: Floor016
     2300116: Floor017
     2300118: Floor018
+    2300120: Wall Template
+    2300122: Med_Hall_C
+    2300124: MedLab_1_C
+    2300126: MedLab_1_WW
+    2300128: MedLab_2_C
+    2300130: MedLab_3_C
+    2300132: Outter_SW
+    2300134: CeilingTemplate
+    2300136: Wall022
+    2300138: Floor019
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -252,6 +282,16 @@ ModelImporter:
     3300114: Floor016
     3300116: Floor017
     3300118: Floor018
+    3300120: Wall Template
+    3300122: Med_Hall_C
+    3300124: MedLab_1_C
+    3300126: MedLab_1_WW
+    3300128: MedLab_2_C
+    3300130: MedLab_3_C
+    3300132: Outter_SW
+    3300134: CeilingTemplate
+    3300136: Wall022
+    3300138: Floor019
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -312,6 +352,16 @@ ModelImporter:
     4300114: Floor016
     4300116: Floor017
     4300118: Floor018
+    4300120: Wall Template
+    4300122: MedLab_1_WW
+    4300124: MedLab_1_C
+    4300126: MedLab_2_C
+    4300128: MedLab_3_C
+    4300130: Med_Hall_C
+    4300132: Outter_SW
+    4300134: CeilingTemplate
+    4300136: Wall022
+    4300138: Floor019
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -372,6 +422,16 @@ ModelImporter:
     6400114: Floor016
     6400116: Floor017
     6400118: Floor018
+    6400120: Wall Template
+    6400122: Med_Hall_C
+    6400124: MedLab_1_C
+    6400126: MedLab_1_WW
+    6400128: MedLab_2_C
+    6400130: MedLab_3_C
+    6400132: Outter_SW
+    6400134: CeilingTemplate
+    6400136: Wall022
+    6400138: Floor019
   externalObjects: {}
   materials:
     importMaterials: 1
