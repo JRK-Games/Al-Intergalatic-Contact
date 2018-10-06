@@ -395,6 +395,8 @@ ModelImporter:
     100778: Door Template043
     100780: Door Template044
     100782: Door Template045
+    100784: Wall214
+    100786: Wall215
     400000: Box001
     400002: Box002
     400004: Box003
@@ -787,6 +789,8 @@ ModelImporter:
     400778: Door Template043
     400780: Door Template044
     400782: Door Template045
+    400784: Wall214
+    400786: Wall215
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -1194,6 +1198,8 @@ ModelImporter:
     2300774: Door Template043
     2300776: Door Template044
     2300778: Door Template045
+    2300780: Wall214
+    2300782: Wall215
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -1584,6 +1590,8 @@ ModelImporter:
     3300774: Door Template043
     3300776: Door Template044
     3300778: Door Template045
+    3300780: Wall214
+    3300782: Wall215
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -1974,6 +1982,8 @@ ModelImporter:
     4300774: Door Template043
     4300776: Door Template044
     4300778: Door Template045
+    4300780: Wall214
+    4300782: Wall215
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -2364,6 +2374,8 @@ ModelImporter:
     6400774: Door Template043
     6400776: Door Template044
     6400778: Door Template045
+    6400780: Wall214
+    6400782: Wall215
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
