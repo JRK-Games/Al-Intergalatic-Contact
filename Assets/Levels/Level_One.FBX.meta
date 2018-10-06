@@ -347,6 +347,24 @@ ModelImporter:
     100682: Box096
     100684: Box097
     100686: Box098
+    100688: Door Template
+    100690: Door Template001
+    100692: Door Template002
+    100694: Door Template003
+    100696: Door Template004
+    100698: Door Template005
+    100700: Door Template006
+    100702: Door Template007
+    100704: Door Template008
+    100706: Door Template010
+    100708: Door Template011
+    100710: Door Template012
+    100712: Door Template013
+    100714: Door Template014
+    100716: Door Template015
+    100718: Door Template016
+    100720: Wall211
+    100722: Wall212
     400000: Box001
     400002: Box002
     400004: Box003
@@ -691,6 +709,24 @@ ModelImporter:
     400682: Box096
     400684: Box097
     400686: Box098
+    400688: Door Template
+    400690: Door Template001
+    400692: Door Template002
+    400694: Door Template003
+    400696: Door Template004
+    400698: Door Template005
+    400700: Door Template006
+    400702: Door Template007
+    400704: Door Template008
+    400706: Door Template010
+    400708: Door Template011
+    400710: Door Template012
+    400712: Door Template013
+    400714: Door Template014
+    400716: Door Template015
+    400718: Door Template016
+    400720: Wall211
+    400722: Wall212
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -1050,6 +1086,24 @@ ModelImporter:
     2300678: Box096
     2300680: Box097
     2300682: Box098
+    2300684: Door Template
+    2300686: Door Template001
+    2300688: Door Template002
+    2300690: Door Template003
+    2300692: Door Template004
+    2300694: Door Template005
+    2300696: Door Template006
+    2300698: Door Template007
+    2300700: Door Template008
+    2300702: Door Template010
+    2300704: Door Template011
+    2300706: Door Template012
+    2300708: Door Template013
+    2300710: Door Template014
+    2300712: Door Template015
+    2300714: Door Template016
+    2300716: Wall211
+    2300718: Wall212
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -1392,6 +1446,24 @@ ModelImporter:
     3300678: Box096
     3300680: Box097
     3300682: Box098
+    3300684: Door Template
+    3300686: Door Template001
+    3300688: Door Template002
+    3300690: Door Template003
+    3300692: Door Template004
+    3300694: Door Template005
+    3300696: Door Template006
+    3300698: Door Template007
+    3300700: Door Template008
+    3300702: Door Template010
+    3300704: Door Template011
+    3300706: Door Template012
+    3300708: Door Template013
+    3300710: Door Template014
+    3300712: Door Template015
+    3300714: Door Template016
+    3300716: Wall211
+    3300718: Wall212
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -1734,6 +1806,24 @@ ModelImporter:
     4300678: Box096
     4300680: Box097
     4300682: Box098
+    4300684: Door Template
+    4300686: Door Template001
+    4300688: Door Template002
+    4300690: Door Template003
+    4300692: Door Template004
+    4300694: Door Template005
+    4300696: Door Template006
+    4300698: Door Template007
+    4300700: Door Template008
+    4300702: Door Template010
+    4300704: Door Template011
+    4300706: Door Template012
+    4300708: Door Template013
+    4300710: Door Template014
+    4300712: Wall211
+    4300714: Wall212
+    4300716: Door Template015
+    4300718: Door Template016
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -2076,6 +2166,24 @@ ModelImporter:
     6400678: Box096
     6400680: Box097
     6400682: Box098
+    6400684: Door Template
+    6400686: Door Template001
+    6400688: Door Template002
+    6400690: Door Template003
+    6400692: Door Template004
+    6400694: Door Template005
+    6400696: Door Template006
+    6400698: Door Template007
+    6400700: Door Template008
+    6400702: Door Template010
+    6400704: Door Template011
+    6400706: Door Template012
+    6400708: Door Template013
+    6400710: Door Template014
+    6400712: Door Template015
+    6400714: Door Template016
+    6400716: Wall211
+    6400718: Wall212
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
