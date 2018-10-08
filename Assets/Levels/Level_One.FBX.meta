@@ -398,6 +398,12 @@ ModelImporter:
     100784: Wall214
     100786: Wall215
     100788: Box099
+    100790: Box100
+    100792: Cylinder001
+    100794: Cylinder002
+    100796: Cylinder003
+    100798: Cylinder004
+    100800: Box101
     400000: Box001
     400002: Box002
     400004: Box003
@@ -793,6 +799,12 @@ ModelImporter:
     400784: Wall214
     400786: Wall215
     400788: Box099
+    400790: Box100
+    400792: Cylinder001
+    400794: Cylinder002
+    400796: Cylinder003
+    400798: Cylinder004
+    400800: Box101
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -1203,6 +1215,12 @@ ModelImporter:
     2300780: Wall214
     2300782: Wall215
     2300784: Box099
+    2300786: Box100
+    2300788: Cylinder001
+    2300790: Cylinder002
+    2300792: Cylinder003
+    2300794: Cylinder004
+    2300796: Box101
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -1596,6 +1614,12 @@ ModelImporter:
     3300780: Wall214
     3300782: Wall215
     3300784: Box099
+    3300786: Box100
+    3300788: Cylinder001
+    3300790: Cylinder002
+    3300792: Cylinder003
+    3300794: Cylinder004
+    3300796: Box101
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -1989,6 +2013,12 @@ ModelImporter:
     4300780: Wall214
     4300782: Wall215
     4300784: Box099
+    4300786: Box100
+    4300788: Cylinder001
+    4300790: Cylinder002
+    4300792: Cylinder003
+    4300794: Cylinder004
+    4300796: Box101
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -2382,6 +2412,12 @@ ModelImporter:
     6400780: Wall214
     6400782: Wall215
     6400784: Box099
+    6400786: Box100
+    6400788: Cylinder001
+    6400790: Cylinder002
+    6400792: Cylinder003
+    6400794: Cylinder004
+    6400796: Box101
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
