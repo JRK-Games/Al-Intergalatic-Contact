@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Deep Lake
   m_Shader: {fileID: 4800000, guid: f625f9c13440d4e49bf26284e1c8c132, type: 3}
@@ -96,8 +96,8 @@ Material:
     - _FoamDistFalloff: 20.1
     - _FoamIntensity: 10
     - _FoamSpeed: -200
-    - _FoamTiling: 30
-    - _FoamVisibility: 0.547
+    - _FoamTiling: 8000
+    - _FoamVisibility: 0.465
     - _FogDistance: 1000
     - _FogFade: 1.5
     - _FullTransparency: 0
@@ -105,13 +105,13 @@ Material:
     - _Glossiness: 0.5
     - _LargeWaveRefraction: 1.53
     - _LargeWavesSpeed: 50
-    - _LargeWavesTiling: 1
+    - _LargeWavesTiling: 3000
     - _LightWrapping: 2
     - _LongTilingDistance: 1500
     - _MediumTilingDistance: 500
     - _MediumWaveRefraction: 1.77
     - _MediumWavesSpeed: -120
-    - _MediumWavesTiling: 2
+    - _MediumWavesTiling: 8000
     - _Metallic: 0
     - _Mode: 0
     - _NormalTiling: 1
@@ -125,7 +125,7 @@ Material:
     - _ShoreTransparency: 0.5
     - _SmallWaveRrefraction: 1.16
     - _SmallWavesSpeed: 60
-    - _SmallWavesTiling: 1
+    - _SmallWavesTiling: 8000
     - _Specular: 1
     - _SrcBlend: 1
     - _UVSec: 0
