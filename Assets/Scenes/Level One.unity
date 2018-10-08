@@ -1746,11 +1746,6 @@ Prefab:
       propertyPath: gameObjects.waterPlanes.Array.data[0]
       value: 
       objectReference: {fileID: 491283002}
-    - target: {fileID: 114238367346838406, guid: 5e9e851c0e142814dac026a256ba2ac0,
-        type: 2}
-      propertyPath: gameObjects.useSquaredPlanes
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
   m_IsPrefabAsset: 0

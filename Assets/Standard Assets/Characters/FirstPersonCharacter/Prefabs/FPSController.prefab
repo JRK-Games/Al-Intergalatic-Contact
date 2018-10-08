@@ -87,7 +87,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 50
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -594,10 +594,10 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1199308315787444}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f764799448f136c45925fe725e974eb9, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -611,7 +611,7 @@ AudioSource:
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
-  BypassEffects: 0
+  BypassEffects: 1
   BypassListenerEffects: 0
   BypassReverbZones: 0
   rolloffCustomCurve:
@@ -693,7 +693,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -788,7 +788,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -885,7 +885,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   underWaterParameters:
-    fogDensity: 10
+    fogDensity: 1
     fogColor: {r: 0, g: 0.27007672, b: 0.32352942, a: 0}
     underwaterProfile: {fileID: 11400000, guid: 7c40cee333a071f429d8e3e45ccd33d6,
       type: 2}
@@ -910,8 +910,8 @@ MonoBehaviour:
     minSpawnTimerL: 0.1
     maxSpawnTimerL: 0.5
   wetLens:
-    wetTime: 0.001
-    dryingTime: 0.001
+    wetTime: 1
+    dryingTime: 0.5
     sprayFrames:
     - {fileID: 2800000, guid: 7fbf1d22ff9c5a24e8d13360a24a3f77, type: 3}
     - {fileID: 2800000, guid: e685f3bda038d9249b1f5eb0e83da387, type: 3}
