@@ -404,6 +404,10 @@ ModelImporter:
     100796: Cylinder003
     100798: Cylinder004
     100800: Box101
+    100802: Torus001
+    100804: Torus002
+    100806: Torus003
+    100808: Torus004
     400000: Box001
     400002: Box002
     400004: Box003
@@ -805,6 +809,10 @@ ModelImporter:
     400796: Cylinder003
     400798: Cylinder004
     400800: Box101
+    400802: Torus001
+    400804: Torus002
+    400806: Torus003
+    400808: Torus004
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -1223,6 +1231,10 @@ ModelImporter:
     2300792: Cylinder003
     2300794: Cylinder004
     2300796: Box101
+    2300798: Torus001
+    2300800: Torus002
+    2300802: Torus003
+    2300804: Torus004
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -1622,6 +1634,10 @@ ModelImporter:
     3300792: Cylinder003
     3300794: Cylinder004
     3300796: Box101
+    3300798: Torus001
+    3300800: Torus002
+    3300802: Torus003
+    3300804: Torus004
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -2021,6 +2037,10 @@ ModelImporter:
     4300792: Cylinder003
     4300794: Cylinder004
     4300796: Box101
+    4300798: Torus001
+    4300800: Torus002
+    4300802: Torus003
+    4300804: Torus004
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -2420,6 +2440,10 @@ ModelImporter:
     6400792: Cylinder003
     6400794: Cylinder004
     6400796: Box101
+    6400798: Torus001
+    6400800: Torus002
+    6400802: Torus003
+    6400804: Torus004
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
