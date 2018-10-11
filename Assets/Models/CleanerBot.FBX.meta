@@ -23,14 +23,41 @@ ModelImporter:
     2100002: 'Material #23'
     2100004: No Name
     2300000: UCX_CleanerBot
+    2300002: CleanerBot
     3300000: UCX_CleanerBot
+    3300002: CleanerBot
     4300000: CleanerBot
     4300002: UCX_CleanerBot
     9500000: //RootNode
     10800000: Spot001
     10800002: Spot002
     13700000: CleanerBot
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #22'
+    second: {fileID: 2100000, guid: c06999194e0752a429de8e740534ffc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #23'
+    second: {fileID: 2100000, guid: ebb787273d306c9459a0c10b44a804ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1c11b6cd6ad50914f906456cf2c8cd6c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBot
+    second: {fileID: 2800000, guid: 13d9f011a2bbef24b9de448566724256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotEmissive
+    second: {fileID: 2800000, guid: 3acf569c29cd1a944a7472792bfa439d, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
