@@ -20,9 +20,13 @@ Material:
     m_TexEnvs:
     - _Texture:
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: ecb31d9a7cade3f40a5b904c720f02a0, type: 3}
 =======
         m_Texture: {fileID: 2800000, guid: ceb49d6e33f631245b70ba871526141f, type: 3}
+>>>>>>> LevelOneDesign
+=======
+        m_Texture: {fileID: 2800000, guid: 02249def1d23a2d4c93f4c19887dd5cb, type: 3}
 >>>>>>> LevelOneDesign
         m_Scale: {x: 5.67, y: 6.02}
         m_Offset: {x: 0.5, y: 0.5}
