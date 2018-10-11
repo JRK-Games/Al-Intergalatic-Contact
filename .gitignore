@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/AQUAS/Prefabs/Bubble.prefab
+Assets/AQUAS/Materials/Caustics/PrimaryCaustics.mat
+Assets/AQUAS/Prefabs/SmallBubble.prefab
