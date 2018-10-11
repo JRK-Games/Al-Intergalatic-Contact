@@ -408,6 +408,14 @@ ModelImporter:
     100804: Torus002
     100806: Torus003
     100808: Torus004
+    100810: Elevator_Ceiling
+    100812: MedLab1_2_Back_Wall
+    100814: MedLab1_C
+    100816: MedLab1_Floor
+    100818: MedLab1_Front_Wall
+    100820: MedLab1_Wall_1
+    100822: MedLab1_Wall_2
+    100824: MedLab_Hall_Ceiling
     400000: Box001
     400002: Box002
     400004: Box003
@@ -813,6 +821,14 @@ ModelImporter:
     400804: Torus002
     400806: Torus003
     400808: Torus004
+    400810: Elevator_Ceiling
+    400812: MedLab1_2_Back_Wall
+    400814: MedLab1_C
+    400816: MedLab1_Floor
+    400818: MedLab1_Front_Wall
+    400820: MedLab1_Wall_1
+    400822: MedLab1_Wall_2
+    400824: MedLab_Hall_Ceiling
     2100000: No Name
     2100002: 'Material #3'
     2100004: 'Material #2'
@@ -1235,6 +1251,14 @@ ModelImporter:
     2300800: Torus002
     2300802: Torus003
     2300804: Torus004
+    2300806: Elevator_Ceiling
+    2300808: MedLab1_2_Back_Wall
+    2300810: MedLab1_C
+    2300812: MedLab1_Floor
+    2300814: MedLab1_Front_Wall
+    2300816: MedLab1_Wall_1
+    2300818: MedLab1_Wall_2
+    2300820: MedLab_Hall_Ceiling
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -1638,6 +1662,14 @@ ModelImporter:
     3300800: Torus002
     3300802: Torus003
     3300804: Torus004
+    3300806: Elevator_Ceiling
+    3300808: MedLab1_2_Back_Wall
+    3300810: MedLab1_C
+    3300812: MedLab1_Floor
+    3300814: MedLab1_Front_Wall
+    3300816: MedLab1_Wall_1
+    3300818: MedLab1_Wall_2
+    3300820: MedLab_Hall_Ceiling
     4300000: Plane001
     4300002: Box001
     4300004: Box002
@@ -2041,6 +2073,14 @@ ModelImporter:
     4300800: Torus002
     4300802: Torus003
     4300804: Torus004
+    4300806: MedLab1_Wall_2
+    4300808: MedLab1_Floor
+    4300810: MedLab1_2_Back_Wall
+    4300812: MedLab1_Wall_1
+    4300814: MedLab1_C
+    4300816: Elevator_Ceiling
+    4300818: MedLab_Hall_Ceiling
+    4300820: MedLab1_Front_Wall
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -2444,6 +2484,14 @@ ModelImporter:
     6400800: Torus002
     6400802: Torus003
     6400804: Torus004
+    6400806: Elevator_Ceiling
+    6400808: MedLab1_2_Back_Wall
+    6400810: MedLab1_C
+    6400812: MedLab1_Floor
+    6400814: MedLab1_Front_Wall
+    6400816: MedLab1_Wall_1
+    6400818: MedLab1_Wall_2
+    6400820: MedLab_Hall_Ceiling
   externalObjects:
   - first:
       type: UnityEngine:Texture2D
