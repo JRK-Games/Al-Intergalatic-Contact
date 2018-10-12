@@ -22,18 +22,78 @@ ModelImporter:
     2100000: 'Material #22'
     2100002: 'Material #23'
     2100004: No Name
+    2100006: MainBody
+    2100008: Emmisive
+    2100010: Emissive
     2300000: UCX_CleanerBot
+    2300002: CleanerBot
     3300000: UCX_CleanerBot
+    3300002: CleanerBot
     4300000: CleanerBot
     4300002: UCX_CleanerBot
     9500000: //RootNode
     10800000: Spot001
     10800002: Spot002
     13700000: CleanerBot
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive
+    second: {fileID: 2100000, guid: e72f68639bd562f4a908fb8c3b2d4f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainBody
+    second: {fileID: 2100000, guid: 1aebd11c5e14f0f4d88ce347fa3477eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #22'
+    second: {fileID: 2100000, guid: c06999194e0752a429de8e740534ffc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #23'
+    second: {fileID: 2100000, guid: ebb787273d306c9459a0c10b44a804ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1c11b6cd6ad50914f906456cf2c8cd6c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBot
+    second: {fileID: 2800000, guid: 82eb3973b16330c418713286f96f02d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotAmbientOcclusionMap
+    second: {fileID: 2800000, guid: af00556c5422fd34e9a8516225027b3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotDisplacementMap
+    second: {fileID: 2800000, guid: 4a5cf371c94d94b4e8e8202e76cc6c4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotEmissive
+    second: {fileID: 2800000, guid: 21562edc34a26cc4fb8c22b24b31aeab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotNormalMap
+    second: {fileID: 2800000, guid: 957385628e78ed74f8c42fc6bb053b14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CleanerBotSpecularMap
+    second: {fileID: 2800000, guid: c85430a7c164166448de60e2c5a3f242, type: 3}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -63,13 +123,13 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
