@@ -18,6 +18,8 @@ ModelImporter:
     3300002: UCX_Counter
     4300000: UCX_Counter
     4300002: Counter
+    6400000: Counter
+    6400002: UCX_Counter
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -51,13 +53,13 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
-    importLights: 1
+    importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
