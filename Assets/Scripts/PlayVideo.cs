@@ -11,7 +11,7 @@ public class PlayVideo : MonoBehaviour
     void Start()
     {
         GetComponent<RawImage>().texture = movie as MovieTexture;
-        movie.Play();
+        movie.Play(testintrovideo);
 
     }
 

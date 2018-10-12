@@ -53,10 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\AQUAS_AddDefine.cs" />
-     <Compile Include="Assets\Editor\AQUAS_QuickSetup.cs" />
-     <Compile Include="Assets\Editor\AQUAS_RemoveDefine.cs" />
-     <Compile Include="Assets\Editor\AQUAS_RiverSetup.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Models\AmbientOcclusionModelEditor.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />
