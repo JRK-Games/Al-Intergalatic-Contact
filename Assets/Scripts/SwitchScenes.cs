@@ -10,6 +10,7 @@ public class SwitchScenes : MonoBehaviour {
     }
 
     // Update is called once per frame
+    // The cake is a lie!
     void Update() {
         if (Input.GetKeyDown(KeyCode.Space)) {
             SceneManager.LoadScene("Main Menu");
