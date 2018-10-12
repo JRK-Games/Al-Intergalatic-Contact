@@ -2,13 +2,9 @@
 -target:library
 -nowarn:0169
 -langversion:4
--out:Temp/Assembly-CSharp-firstpass.dll
+-out:Temp/Assembly-CSharp.dll
 -nostdlib
--r:Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
--r:Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
--r:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
--r:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
--r:Library/ScriptAssemblies/Unity.TextMeshPro.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
 -r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -71,6 +67,11 @@
 -r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEditor.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Managed/Unity.Locator.dll"
+-r:Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+-r:Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+-r:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.dll
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
@@ -108,7 +109,6 @@
 -define:UNITY_2018
 -define:PLATFORM_ARCH_64
 -define:UNITY_64
--define:UNITY_ANALYTICS
 -define:ENABLE_AUDIO
 -define:ENABLE_CACHING
 -define:ENABLE_CLOTH
@@ -192,100 +192,61 @@
 -define:UNITY_TEAM_LICENSE
 -define:CROSS_PLATFORM_INPUT
 -define:UNITY_POST_PROCESSING_STACK_V1
--define:AQUAS_PRESENT
-"Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs"
-"Assets/Standard Assets/2D/Scripts/CameraFollow.cs"
-"Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs"
-"Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs"
-"Assets/Standard Assets/2D/Scripts/Restarter.cs"
-"Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs"
-"Assets/Standard Assets/Cameras/Scripts/AutoCam.cs"
-"Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs"
-"Assets/Standard Assets/Cameras/Scripts/HandHeldCam.cs"
-"Assets/Standard Assets/Cameras/Scripts/LookatTarget.cs"
-"Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs"
-"Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs"
-"Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs"
-"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs"
-"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs"
-"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs"
-"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs"
-"Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs"
-"Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs"
-"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs"
-"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs"
-"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs"
-"Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
-"Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs"
-"Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/FireLight.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/Hose.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs"
-"Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs"
-"Assets/Standard Assets/Utility/ActivateTrigger.cs"
-"Assets/Standard Assets/Utility/AlphaButtonClickMask.cs"
-"Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs"
-"Assets/Standard Assets/Utility/AutoMoveAndRotate.cs"
-"Assets/Standard Assets/Utility/CameraRefocus.cs"
-"Assets/Standard Assets/Utility/CurveControlledBob.cs"
-"Assets/Standard Assets/Utility/DragRigidbody.cs"
-"Assets/Standard Assets/Utility/DynamicShadowSettings.cs"
-"Assets/Standard Assets/Utility/EventSystemChecker.cs"
-"Assets/Standard Assets/Utility/FollowTarget.cs"
-"Assets/Standard Assets/Utility/ForcedReset.cs"
-"Assets/Standard Assets/Utility/FOVKick.cs"
-"Assets/Standard Assets/Utility/FPSCounter.cs"
-"Assets/Standard Assets/Utility/LerpControlledBob.cs"
-"Assets/Standard Assets/Utility/ObjectResetter.cs"
-"Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs"
-"Assets/Standard Assets/Utility/PlatformSpecificContent.cs"
-"Assets/Standard Assets/Utility/SimpleActivatorMenu.cs"
-"Assets/Standard Assets/Utility/SimpleMouseRotator.cs"
-"Assets/Standard Assets/Utility/SmoothFollow.cs"
-"Assets/Standard Assets/Utility/TimedObjectActivator.cs"
-"Assets/Standard Assets/Utility/TimedObjectDestructor.cs"
-"Assets/Standard Assets/Utility/WaypointCircuit.cs"
-"Assets/Standard Assets/Utility/WaypointProgressTracker.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAiControl.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAudio.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplanePropellerAnimator.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs"
-"Assets/Standard Assets/Vehicles/Aircraft/Scripts/LandingGear.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/BrakeLight.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/CarAIControl.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/CarController.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/CarSelfRighting.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/Mudguard.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/SkidTrail.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/Suspension.cs"
-"Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs"
+Assets/MainMenu.cs
+Assets/PlayerController.cs
+Assets/PostProcessing/Runtime/Attributes/GetSetAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/MinAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/TrackballAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/TrackballGroupAttribute.cs
+Assets/PostProcessing/Runtime/Components/AmbientOcclusionComponent.cs
+Assets/PostProcessing/Runtime/Components/BloomComponent.cs
+Assets/PostProcessing/Runtime/Components/BuiltinDebugViewsComponent.cs
+Assets/PostProcessing/Runtime/Components/ChromaticAberrationComponent.cs
+Assets/PostProcessing/Runtime/Components/ColorGradingComponent.cs
+Assets/PostProcessing/Runtime/Components/DepthOfFieldComponent.cs
+Assets/PostProcessing/Runtime/Components/DitheringComponent.cs
+Assets/PostProcessing/Runtime/Components/EyeAdaptationComponent.cs
+Assets/PostProcessing/Runtime/Components/FogComponent.cs
+Assets/PostProcessing/Runtime/Components/FxaaComponent.cs
+Assets/PostProcessing/Runtime/Components/GrainComponent.cs
+Assets/PostProcessing/Runtime/Components/MotionBlurComponent.cs
+Assets/PostProcessing/Runtime/Components/ScreenSpaceReflectionComponent.cs
+Assets/PostProcessing/Runtime/Components/TaaComponent.cs
+Assets/PostProcessing/Runtime/Components/UserLutComponent.cs
+Assets/PostProcessing/Runtime/Components/VignetteComponent.cs
+Assets/PostProcessing/Runtime/Models/AmbientOcclusionModel.cs
+Assets/PostProcessing/Runtime/Models/AntialiasingModel.cs
+Assets/PostProcessing/Runtime/Models/BloomModel.cs
+Assets/PostProcessing/Runtime/Models/BuiltinDebugViewsModel.cs
+Assets/PostProcessing/Runtime/Models/ChromaticAberrationModel.cs
+Assets/PostProcessing/Runtime/Models/ColorGradingModel.cs
+Assets/PostProcessing/Runtime/Models/DepthOfFieldModel.cs
+Assets/PostProcessing/Runtime/Models/DitheringModel.cs
+Assets/PostProcessing/Runtime/Models/EyeAdaptationModel.cs
+Assets/PostProcessing/Runtime/Models/FogModel.cs
+Assets/PostProcessing/Runtime/Models/GrainModel.cs
+Assets/PostProcessing/Runtime/Models/MotionBlurModel.cs
+Assets/PostProcessing/Runtime/Models/ScreenSpaceReflectionModel.cs
+Assets/PostProcessing/Runtime/Models/UserLutModel.cs
+Assets/PostProcessing/Runtime/Models/VignetteModel.cs
+Assets/PostProcessing/Runtime/PostProcessingBehaviour.cs
+Assets/PostProcessing/Runtime/PostProcessingComponent.cs
+Assets/PostProcessing/Runtime/PostProcessingContext.cs
+Assets/PostProcessing/Runtime/PostProcessingModel.cs
+Assets/PostProcessing/Runtime/PostProcessingProfile.cs
+Assets/PostProcessing/Runtime/Utils/ColorGradingCurve.cs
+Assets/PostProcessing/Runtime/Utils/GraphicsUtils.cs
+Assets/PostProcessing/Runtime/Utils/MaterialFactory.cs
+Assets/PostProcessing/Runtime/Utils/RenderTextureFactory.cs
+Assets/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs
+Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs
+Assets/SampleScenes/Menu/Scripts/PauseMenu.cs
+Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs
+Assets/SampleScenes/Scripts/CameraSwitch.cs
+Assets/SampleScenes/Scripts/LevelReset.cs
+Assets/SampleScenes/Scripts/ParticleSceneControls.cs
+Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs
+Assets/SampleScenes/Scripts/SlowMoButton.cs
+Assets/Scripts/PlayVideo.cs
+Assets/Scripts/SwitchScenes.cs
 -lib:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity"
