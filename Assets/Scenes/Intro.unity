@@ -160,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9cc942d6f74eea4ea7aa542ff25d8db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movie: {fileID: 15200000, guid: 037ed3894e180d74e8037818a6819d76, type: 3}
+  movie: {fileID: 15200000, guid: 145f4a553cba26040960ea620f3395d4, type: 3}
 --- !u!114 &37599180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -180,7 +180,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 15200000, guid: 037ed3894e180d74e8037818a6819d76, type: 3}
+  m_Texture: {fileID: 15200000, guid: 145f4a553cba26040960ea620f3395d4, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
